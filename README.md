@@ -20,7 +20,8 @@ I care about clean architecture, testable code, and engineering practices that h
 
 ## Featured Projects
 
-> 🚧 Portfolio projects currently in development — check back soon.
+🚧 Currently building: **GATHER** — a community-driven event discovery platform  
+for niche tech, motorsport, and creative events. Shipping mid-2026.
 
 ---
 
