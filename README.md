@@ -48,7 +48,7 @@ I care about clean architecture, testable code, and engineering practices that h
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
-**Also worked with:** RESTful API design · Micro-frontend architecture (Module Federation) · Jasmine · Karma · Swagger · Jira · Confluence · Agile / Scrum
+**Also worked with:** HTML5 · CSS3 · SASS · Python · Jest · GitHub Actions · Splunk · Postman · Figma · RESTful API design · Micro-frontend architecture (Module Federation) · Jasmine · Karma · Swagger · Jira · Confluence · Agile / Scrum
 
 ---
 
@@ -93,9 +93,10 @@ Open to English-first and mixed-language environments.
 Based in Japan from July 2026 — actively pursuing full-time engineering roles in Tokyo.  
 Available for conversations now.
 
+<!--
 ---
 
 ## GitHub Stats
-
 ![](https://github-readme-stats.vercel.app/api?username=Rgonzalez214&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rgonzalez214&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+-->
